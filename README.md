@@ -1,7 +1,7 @@
-## tubeDownload
+# tubeDownload
 This is a simple application that helps to download only Audio files such as Music from Youtube with ease
 
-# How to use tubeDownload
+## How to use tubeDownload
 1. Download the file 
 2. click on the downloaded file and follow the guides to install
 3. Lauch the Application
@@ -10,5 +10,5 @@ This is a simple application that helps to download only Audio files such as Mus
 6. Go back to tubeDownload and paste the copied url in the text box
 7. click on the Download button and wait for your audio file to be downloaded
 
-# DISCLAIMER
+## DISCLAIMER
 This Application is for legal purposes only and should be avoided for illegal use
